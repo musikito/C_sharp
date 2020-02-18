@@ -1,0 +1,5 @@
+/Users/josemiguelmarte/Documents/c_sharp/MultiplicationTable/bin/Debug/MultiplicationTable.exe
+/Users/josemiguelmarte/Documents/c_sharp/MultiplicationTable/bin/Debug/MultiplicationTable.pdb
+/Users/josemiguelmarte/Documents/c_sharp/MultiplicationTable/obj/Debug/MultiplicationTable.csprojAssemblyReference.cache
+/Users/josemiguelmarte/Documents/c_sharp/MultiplicationTable/obj/Debug/MultiplicationTable.exe
+/Users/josemiguelmarte/Documents/c_sharp/MultiplicationTable/obj/Debug/MultiplicationTable.pdb
